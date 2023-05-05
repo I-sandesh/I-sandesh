@@ -1,3 +1,8 @@
+# Hey techies! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<hr/>
+<p align="left">I'm <b>Sandesh Kumar </b>, second year undergraduate student.<br/>Just Exploring and learning day by day ✨<p/>
+<hr/>
+
 # 💫 About Me:
 🔭 I’m Currently willing to get an internship.<br>🌱 I’m currently Exploring DSA and competitive programming.<br>🤔 Google Crowdsource Influencer.<br>💬 Ask me about exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/sandesh-kumar-0a7224234/<br>😄 Pronouns: He/His<br>
 
