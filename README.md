@@ -6,6 +6,7 @@
 # 💫 About Me:
 🔭 I’m Currently willing to get an internship.<br>🌱 I’m currently Exploring DSA and competitive programming.<br>🤔 Google Crowdsource Influencer.<br>💬 Ask me about exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/sandesh-kumar-0a7224234/<br>😄 Pronouns: He/His<br>
 
+[![](https://visitcount.itsvg.in/api?id=I-sandesh&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sandesh_9811/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandesh-kumar-0a7224234/) 
@@ -21,4 +22,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=I-sandesh&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=I-sandesh&icon=0&color=11)](https://visitcount.itsvg.in)
